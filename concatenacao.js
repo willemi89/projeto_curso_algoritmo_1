@@ -1,17 +1,3 @@
-/*
-var
-   nome: caractere
-   numero: real
-
-inicio
-// Seção de Comandos 
-   escreval("Digite o nome: ")
-   leia(nome)
-   escreval("Digite o número: ")
-   leia(numero)
-   
-   escreval(nome, " :", numero, 15)
-*/
 
 var nome, numero;
 
